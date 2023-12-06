@@ -1,0 +1,8 @@
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Mr. Chocolate', 3, 'M', 'Brown', 'extraversion', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Rowdy', 2, 'M', 'Orange', 'neuroticism', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Tabitha', 5, 'F', 'White', 'dominance', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Sergeant Brown', 1, 'M', 'Black', 'extraversion', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Melissa', 6, 'F', 'Brown', 'impulsiveness', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Grinch', 5, 'M', 'Ginger', 'agreeableness', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ('Wendy', 3, 'F', 'White', 'extraversion', True)
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES (NULL, 3, 'M', 'Brown', 'dominance', True)
